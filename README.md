@@ -1,20 +1,20 @@
+# Awesome Spring [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A collection of awesome Spring and Spring boot libraries, resources and shiny things.
+
 ## Contents
 
 - [Resources](#Resources)
   - [Official](#Official)
   - [Tutorials](#Tutorials)
   - [Blogs](#Blogs)
-  - [Videos](#Videos)
   - [Books](#Books)
   - [Courses](#Courses)
 - [Libraries](#Libraries)
-  - [Databases](#Databases)
   - [Documentation](#Documentation)
-  - [Security](#Security)
-  - [Testing](#Testing)
   - [Monitoring](#Monitoring)
-  - [Config](#Config)
 - [Tools](#Tools)
+- [Contribute](#Contribute)
 
 ## Resources
 
@@ -33,11 +33,11 @@
 - [The Spring Blog](https://spring.io/blog)
 - [Baeldung](https://www.baeldung.com/category/spring/)
 
-### Videos
-
 ### Books
 
 - [Cloud Native Java](http://shop.oreilly.com/product/0636920038252.do) - Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry
+- [Spring Boot in Action](https://www.manning.com/books/spring-boot-in-action) - A developer-focused guide to writing applications using Spring Boot
+- [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action) - How to build microservice-based applications using Java and the Spring platform
 
 ### Courses
 
@@ -45,23 +45,19 @@
 
 ## Libraries
 
-### Databases
-
 ### Documentation
 
 - [Spring Auto REST Docs](https://github.com/ScaCap/spring-auto-restdocs)
-
-### Security
-
-### Testing
 
 ### Monitoring
 
 - [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
 - [Sentry Spring](https://github.com/getsentry/sentry-java/tree/master/sentry-spring) - Sentry integration
 
-### Config
-
 ## Tools
 
 - [Spring Initializr](https://start.spring.io/)
+
+## Contribute
+
+Contributions welcome! :)
