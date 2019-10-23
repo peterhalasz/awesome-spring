@@ -2,7 +2,7 @@
 
 A collection of awesome Spring and Spring boot libraries, resources and shiny things.
 
-## Contents
+## Contents
 
 - [Resources](#Resources)
   - [Official](#Official)
